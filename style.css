@@ -155,6 +155,7 @@ p {
 
 footer {
     background: #262547;
+    display: flex;
 }
  .footer > * {
     flex: 1 100%;
